@@ -3,9 +3,9 @@
 /**
  * _puts - prints a string, followed by a newline to stdout
  *
- * @stt: string parameter to print
+ * @str: string parameter to print
  *
- * Return: nothing
+ * Return: Nothing
  */
 
 void _puts(char *str)
